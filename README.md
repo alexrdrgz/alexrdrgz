@@ -1,5 +1,3 @@
-# 𝗛𝗲𝗹𝗹𝗼！
-
 𝗜'𝗺 [�Alex Rodriguez](https://github.com/alexrdrgz)！𝗜'𝗺 𝗮 web developer
 
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contact@alexrodriguez.io)](mailto:contact@alexrodriguez.io)
