@@ -4,8 +4,6 @@
 [![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://space.bilibili.com/7708412)](https://space.bilibili.com/7708412)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=alexrdrgz)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=alexrdrgz&show_icons=true&hide_border=true">
-
 ## 🧐 About
 
 - 👨‍💻 My blog: https://alexrodriguez.io
