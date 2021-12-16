@@ -1,4 +1,4 @@
-𝗜'𝗺 [�Alex Rodriguez](https://github.com/alexrdrgz)！𝗜'𝗺 𝗮 web developer currently working at Bitwise Industries. 
+𝗜'𝗺 Alex Rodriguez！𝗜'𝗺 𝗮 web developer currently working at Bitwise Industries. 
 
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contact@alexrodriguez.io)](mailto:contact@alexrodriguez.io)
 [![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://space.bilibili.com/7708412)](https://space.bilibili.com/7708412)
