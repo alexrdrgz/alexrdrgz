@@ -5,8 +5,9 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=alexrdrgz)
 
 ## Technologies I'm Learning
+- Studying for AWS Cloud Practitioner Cert
+- Terraform
 - React
-- Django
 
 ## About Me
 
