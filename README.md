@@ -5,9 +5,9 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=alexrdrgz)
 
 ## Technologies I'm Learning
-- Studying for AWS Cloud Practitioner Cert
+- Studying for AWS Solutions Architect Cert
 - Terraform
-- React
+- CircleCI
 
 ## About Me
 
