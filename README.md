@@ -13,7 +13,7 @@
 
 - 👨‍💻 My blog: https://alexrodriguez.io
 - 📫 How to reach me: contact@alexrodriguez.io
-- <code><img height="20" src="https://user-images.githubusercontent.com/20450335/188505555-d4cbaca5-cd11-43f9-965b-fd32070cf6a0.png"></code> Certified Cloud Practitioner
+- <code><img height="20" src="https://user-images.githubusercontent.com/20450335/188505702-d528c9d4-4454-428c-a43d-ef87c488e5fa.png"></code> Certified Cloud Practitioner
 - 🌱 Languages and Tools: 
 
     <div>
@@ -25,4 +25,4 @@
     </div>
     
 
-![9112413_aws_icon](https://user-images.githubusercontent.com/20450335/188505555-d4cbaca5-cd11-43f9-965b-fd32070cf6a0.png)
+![icons8-amazon-web-services-48](https://user-images.githubusercontent.com/20450335/188505702-d528c9d4-4454-428c-a43d-ef87c488e5fa.png)
