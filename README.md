@@ -23,6 +23,4 @@
         <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
         <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/js.png"></code>
     </div>
-    
-
-![icons8-amazon-web-services-48](https://user-images.githubusercontent.com/20450335/188505702-d528c9d4-4454-428c-a43d-ef87c488e5fa.png)
+   
