@@ -1,4 +1,4 @@
-𝗜'𝗺 Alex Rodriguez! DevOps Engineer, Certifies AWS Cloud Practitioner and Terraform Associate
+𝗜'𝗺 Alex Rodriguez! DevOps Engineer, Certified AWS Cloud Practitioner and Terraform Associate
 
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contact@alexrodriguez.io)](mailto:contact@alexrodriguez.io)
 [![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://github.com/alexrdrgz)](https://github.com/alexrdrgz)
