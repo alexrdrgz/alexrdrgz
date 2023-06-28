@@ -7,18 +7,4 @@
 ## Technologies I'm Learning
 - Platform Engineering
 - Studying for AWS Solutions Architect Cert
-
-## About Me
-
-- 👨‍💻 My blog: https://alexrodriguez.io
-- 📫 How to reach me: contact@alexrodriguez.io
-- <code><img height="20" src="https://user-images.githubusercontent.com/20450335/188505702-d528c9d4-4454-428c-a43d-ef87c488e5fa.png"></code> Certified Cloud Practitioner
-- 🌱 Languages and Tools: 
-
-    <div>
-        <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-        <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-        <code><img height="20" src="https://cdn.svgporn.com/logos/visual-studio-code.svg"></code>
-        <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-    </div>
    
