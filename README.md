@@ -5,6 +5,7 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=alexrdrgz)
 
 ## Building [Post Generator](https://postgenerator.co)
+Create 1000's SEO Optimized articles in seconds!
 
 ## Technologies I'm Learning
 - Platform Engineering
