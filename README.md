@@ -4,6 +4,8 @@
 [![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://github.com/alexrdrgz)](https://github.com/alexrdrgz)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=alexrdrgz)
 
+## Building Post Generator (https://postgenerator.co)
+
 ## Technologies I'm Learning
 - Platform Engineering
 - Studying for AWS Solutions Architect Cert
