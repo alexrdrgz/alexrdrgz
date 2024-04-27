@@ -4,8 +4,8 @@
 [![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://github.com/alexrdrgz)](https://github.com/alexrdrgz)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=alexrdrgz)
 
-## Building [Post Generator](https://postgenerator.co)
-Create 1000's SEO Optimized articles in seconds! </br> Site Created by Post Generator: https://happybettafish.com/
+## Building SaaS Businesses
+Create 1000's SEO Optimized articles in seconds through postgenerator [https://postgenerator.co]! </br> Site Created by Post Generator: https://happybettafish.com/
 
 ## Technologies I'm Learning
 - Next.js
