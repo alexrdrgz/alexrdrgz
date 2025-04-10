@@ -6,6 +6,6 @@
 
 
 ## Technologies I'm Learning
-- Next.js
+- Developing AI Agents & MCP Servers
 - Studying for AWS Solutions Architect Cert
    
