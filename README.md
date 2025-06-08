@@ -7,5 +7,5 @@
 
 ## Technologies I'm Learning
 - Developing AI Agents & MCP Servers
-- Studying for AWS Solutions Architect Cert
+- Building CodeMedic.io
    
